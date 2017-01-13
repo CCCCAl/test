@@ -16,6 +16,7 @@
 	
 	SplashDemoViewController *viewController;
 }
+//FSAFSAFSD
 
 @property (nonatomic,retain) NSTimer *timer;
 @property (nonatomic,retain) UIImageView *splashImageView;
