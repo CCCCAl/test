@@ -22,6 +22,7 @@
 	
     [window addSubview:viewController.view];
     [window makeKeyAndVisible];
+    //nfdsfns,mdafas
 }
 
 
